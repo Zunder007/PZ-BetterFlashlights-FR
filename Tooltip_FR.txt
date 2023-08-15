@@ -1,0 +1,17 @@
+Tooltip_FR = {
+	Tooltip_MiningHelmet_BetterFlashlights 			= "Une lampe frontale peut être fixée à ce casque.",
+	Tooltip_HeadLight_BetterFlashlights 			= "Cette lampe frontale peut être fixée à un casque minier muni d'un support d'attache.",
+	Tooltip_HandTorch_BetterFlashlights			= "Une lampe de poche très ordinaire.",
+	Tooltip_Torch_BetterFlashlights				= "Une lampe torche très ordinaire.",
+	Tooltip_HandTorch_CK_LED_BetterFlashlights		= "Une toute petite lampe torche.",
+	Tooltip_HandTorch_ManLite_BetterFlashlights		= "Une lampe torche balèse.",
+	Tooltip_HandTorch_Army1_BetterFlashlights		= "Une lampe torche très puissante.",
+	Tooltip_HandTorch_Army2_BetterFlashlights		= "Une lampe torche extrêmement puissante.",
+	Tooltip_Torch1_BetterFlashlights			= "Une lampe de poche normale mais puissante.",
+	Tooltip_ToyTorch_BetterFlashlights			= "Une rigolote petite lampe de poche pour enfant.",
+	Tooltip_EmergencyFlashlight_BetterFlashlights		= "Une lampe de poche très puissante conçue pour les urgences.",
+	Tooltip_TorchArmy1_BetterFlashlights			= "Une lampe de poche normale mais puissante pour un usage militaire.",
+	Tooltip_BF_EgenerexLite_BetterFlashlights		= "Une lampe de poche incroyablement durable de marque EGENEREX.",
+	Tooltip_BF_SpiffoLitee_BetterFlashlights		= "Une lampe de poche en plastique bon marché de marque Spiffos.",
+	Tooltip_BF_OldFlashlight_BetterFlashlights		= "Une étrange et vieille lampe de poche rouillée.",
+}
