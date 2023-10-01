@@ -1,0 +1,7 @@
+Recipes_FR = {
+	Recipe_Insert_Battery_into_HeadLight = "Mettre une pile dans la lampe frontale",
+	Recipe_Insert_Battery_into_Flashlight = "Mettre une pile dans la lampe de poche",
+	Recipe_Insert Battery into LED Flashlight = "Mettre une pile dans la lampe torche",
+	Recipe_Dismantle_Flashlight = "Démonter la lampe",
+	Recipe_Dismantle_Headlight = "Démonter la lampe",
+}
